@@ -1,0 +1,28 @@
+img {
+    width: 350px;
+    float: left;
+
+}
+body{
+    background-image: url("../images/tacoBack.jpg");
+    max-width: 900px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    align-content: center;
+    margin: auto;
+}
+header{
+    font-size: 55px;
+    background:whitesmoke;
+    opacity: .8;
+}
+
+#timer, #question, #answers{
+    font-size: 30px;
+    color: black;
+    height: 80px;
+    padding-top: 30px;
+    background: whitesmoke;
+    
+}
